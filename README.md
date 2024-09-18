@@ -1,7 +1,7 @@
 ## 手順
 
 ### 0. 最終的な階層構造
-- `docker_nextjs/`
+- `docker_nextjs/ ←本リポジトリ`
     - `source/ ←別リポジトリからクローン`
         - `app/`
         - `components/`
