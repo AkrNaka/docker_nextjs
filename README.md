@@ -2,7 +2,7 @@
 
 ### 0. 最終的な階層構造
 - `docker_nextjs/`
-    - `source/`
+    - `source/ ←別リポジトリからクローン`
         - `app/`
         - `components/`
         - `public/`
@@ -13,7 +13,7 @@
 
 ### 1. リポジトリのクローン
 
-ソースのリポジトリ　https://github.com/AkrNaka/source_nextjs
+ソースのリポジトリ　https://github.com/AkrNaka/source_nextjs<br>
 クローン時のディレクトリ名は　source
 
 ```sh
